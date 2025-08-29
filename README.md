@@ -1,5 +1,5 @@
 # BRAVO-GURA
 
-sadasd
-asdasd
-asd
+Javy Bravo
+Patrick Gura
+hello
